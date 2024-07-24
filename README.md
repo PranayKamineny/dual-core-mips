@@ -1,1 +1,1 @@
-# dual-core-mips
+**Rakshan Joshi and Pranay Kamineny ENEE459D Final Project**
